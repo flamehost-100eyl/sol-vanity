@@ -1,0 +1,2 @@
+# sol-vanity
+Solana Vanity
